@@ -5,4 +5,5 @@
 ## Table Of Contents
 
 * [Articles](table-of-contents/articles.md)
+* [Papers](table-of-contents/papers.md)
 
