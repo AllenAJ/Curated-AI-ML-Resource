@@ -9,5 +9,6 @@
 * [Books](table-of-contents/books.md)
 * [Podcasts](table-of-contents/podcasts.md)
 * [Papers](table-of-contents/papers.md)
+* [Cheatsheets](table-of-contents/cheatsheets.md)
 * [Organisation](table-of-contents/organisation.md)
 
