@@ -4,134 +4,134 @@
 
 **General-Purpose Machine Learning**
 
-* [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
-* [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering \(CF\).
-* [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms. **\[Deprecated\]**
-* [neonrvm](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
-* [cONNXr](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C \(99\) with zero dependancies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
+1. [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+2. [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering \(CF\).
+3. [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms. **\[Deprecated\]**
+4. [neonrvm](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
+5. [cONNXr](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C \(99\) with zero dependancies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 
 **Computer Vision**
 
-* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
-* [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox.
+1. [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
+2. [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox.
 
 ### C++
 
 **Computer Vision**
 
-* [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
-* [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models **\[Deprecated\]**
-* [OpenCV](https://opencv.org/) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
-* [VIGRA](https://github.com/ukoethe/vigra) - VIGRA is a generic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+1. [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
+2. [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models **\[Deprecated\]**
+3. [OpenCV](https://opencv.org/) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+4. [VIGRA](https://github.com/ukoethe/vigra) - VIGRA is a generic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 **General-Purpose Machine Learning**
 
-* [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **\[Deprecated\]**
-* [Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind. \[DEEP LEARNING\]
-* [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU \(even multi-GPU\) computation.
-* [CNTK](https://github.com/Microsoft/CNTK) - The Computational Network Toolkit \(CNTK\) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
-* [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING\]
-* [DeepDetect](https://github.com/jolibrain/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
-* [Distributed Machine learning Tool Kit \(DMTK\)](http://www.dmtk.io/) - A distributed machine learning \(parameter server\) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed \(Multisense\) Word Embedding.
-* [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications.
-* [DSSTNE](https://github.com/amznlabs/amazon-dsstne) - A software library created by Amazon for training and deploying deep neural networks using GPUs which emphasizes speed and scale over experimental flexibility.
-* [DyNet](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-* [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
-* [igraph](http://igraph.org/) - General purpose graph library.
-* [Intel\(R\) DAAL](https://github.com/intel/daal) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
-* [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting \(GBDT, GBRT, GBM or MART\) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-* [libfm](https://github.com/srendle/libfm) - A generic approach that allows to mimic most factorization models by feature engineering.
-* [MLDB](https://mldb.ai/) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
-* [mlpack](https://www.mlpack.org/) - A scalable C++ machine learning library.
-* [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
-* [proNet-core](https://github.com/cnclabs/proNet-core) - A general-purpose network embedding framework: pair-wise representations optimization Network Edit.
-* [PyCUDA](https://mathema.tician.de/software/pycuda/) - Python interface to CUDA
-* [ROOT](https://root.cern.ch/) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
-* [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
-* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
-* [sofia-ml](https://code.google.com/archive/p/sofia-ml) - Suite of fast incremental algorithms.
-* [Stan](http://mc-stan.org/) - A probabilistic programming language implementing full Bayesian statistical inference with Hamiltonian Monte Carlo sampling.
-* [Timbl](https://languagemachines.github.io/timbl/) - A software package/C++ library implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification, and IGTree, a decision-tree approximation of IB1-IG. Commonly used for NLP.
-* [Vowpal Wabbit \(VW\)](https://github.com/VowpalWabbit/vowpal_wabbit) - A fast out-of-core learning system.
-* [Warp-CTC](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification \(CTC\), on both CPU and GPU.
-* [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
-* [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
-* [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) - A fast SVM library on GPUs and CPUs.
-* [LKYDeepNN](https://github.com/mosdeo/LKYDeepNN) - A header-only C++11 Neural Network library. Low dependency, native traditional chinese document.
-* [xLearn](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
-* [Featuretools](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
-* [skynet](https://github.com/Tyill/skynet) - A library for learning neural network, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C\#.
-* [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
-* [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
+1. [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **\[Deprecated\]**
+2. [Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind. \[DEEP LEARNING\]
+3. [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU \(even multi-GPU\) computation.
+4. [CNTK](https://github.com/Microsoft/CNTK) - The Computational Network Toolkit \(CNTK\) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
+5. [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING\]
+6. [DeepDetect](https://github.com/jolibrain/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
+7. [Distributed Machine learning Tool Kit \(DMTK\)](http://www.dmtk.io/) - A distributed machine learning \(parameter server\) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed \(Multisense\) Word Embedding.
+8. [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications.
+9. [DSSTNE](https://github.com/amznlabs/amazon-dsstne) - A software library created by Amazon for training and deploying deep neural networks using GPUs which emphasizes speed and scale over experimental flexibility.
+10. [DyNet](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
+11. [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+12. [igraph](http://igraph.org/) - General purpose graph library.
+13. [Intel\(R\) DAAL](https://github.com/intel/daal) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
+14. [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting \(GBDT, GBRT, GBM or MART\) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+15. [libfm](https://github.com/srendle/libfm) - A generic approach that allows to mimic most factorization models by feature engineering.
+16. [MLDB](https://mldb.ai/) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
+17. [mlpack](https://www.mlpack.org/) - A scalable C++ machine learning library.
+18. [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
+19. [proNet-core](https://github.com/cnclabs/proNet-core) - A general-purpose network embedding framework: pair-wise representations optimization Network Edit.
+20. [PyCUDA](https://mathema.tician.de/software/pycuda/) - Python interface to CUDA
+21. [ROOT](https://root.cern.ch/) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
+22. [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
+23. [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
+24. [sofia-ml](https://code.google.com/archive/p/sofia-ml) - Suite of fast incremental algorithms.
+25. [Stan](http://mc-stan.org/) - A probabilistic programming language implementing full Bayesian statistical inference with Hamiltonian Monte Carlo sampling.
+26. [Timbl](https://languagemachines.github.io/timbl/) - A software package/C++ library implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification, and IGTree, a decision-tree approximation of IB1-IG. Commonly used for NLP.
+27. [Vowpal Wabbit \(VW\)](https://github.com/VowpalWabbit/vowpal_wabbit) - A fast out-of-core learning system.
+28. [Warp-CTC](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification \(CTC\), on both CPU and GPU.
+29. [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
+30. [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
+31. [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) - A fast SVM library on GPUs and CPUs.
+32. [LKYDeepNN](https://github.com/mosdeo/LKYDeepNN) - A header-only C++11 Neural Network library. Low dependency, native traditional chinese document.
+33. [xLearn](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
+34. [Featuretools](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
+35. [skynet](https://github.com/Tyill/skynet) - A library for learning neural network, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C\#.
+36. [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+37. [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 
 **Natural Language Processing**
 
-* [BLLIP Parser](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser \(also known as the Charniak-Johnson parser\).
-* [colibri-core](https://github.com/proycon/colibri-core) - C++ library, command line tools, and Python binding for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
-* [CRF++](https://taku910.github.io/crfpp/) - Open source implementation of Conditional Random Fields \(CRFs\) for segmenting/labeling sequential data & other Natural Language Processing tasks. **\[Deprecated\]**
-* [CRFsuite](http://www.chokkan.org/software/crfsuite/) - CRFsuite is an implementation of Conditional Random Fields \(CRFs\) for labeling sequential data. **\[Deprecated\]**
-* [frog](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-* [libfolia](https://github.com/LanguageMachines/libfolia) - C++ library for the [FoLiA format](https://proycon.github.io/folia/)
-* [MeTA](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
-* [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
-* [ucto](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
+1. [BLLIP Parser](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser \(also known as the Charniak-Johnson parser\).
+2. [colibri-core](https://github.com/proycon/colibri-core) - C++ library, command line tools, and Python binding for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
+3. [CRF++](https://taku910.github.io/crfpp/) - Open source implementation of Conditional Random Fields \(CRFs\) for segmenting/labeling sequential data & other Natural Language Processing tasks. **\[Deprecated\]**
+4. [CRFsuite](http://www.chokkan.org/software/crfsuite/) - CRFsuite is an implementation of Conditional Random Fields \(CRFs\) for labeling sequential data. **\[Deprecated\]**
+5. [frog](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
+6. [libfolia](https://github.com/LanguageMachines/libfolia) - C++ library for the [FoLiA format](https://proycon.github.io/folia/)
+7. [MeTA](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+8. [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
+9. [ucto](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 **Speech Recognition**
 
-* [Kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+1. [Kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
 **Sequence Analysis**
 
-* [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet. **\[Deprecated\]**
+1. [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet. **\[Deprecated\]**
 
 **Gesture Detection**
 
-* [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit \(GRT\) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+1. [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit \(GRT\) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 ### Common Lisp
 
 **General-Purpose Machine Learning**
 
-* [mgl](https://github.com/melisgl/mgl/) - Neural networks \(boltzmann machines, feed-forward and recurrent nets\), Gaussian Processes.
-* [mgl-gpr](https://github.com/melisgl/mgl-gpr/) - Evolutionary algorithms. **\[Deprecated\]**
-* [cl-libsvm](https://github.com/melisgl/cl-libsvm/) - Wrapper for the libsvm support vector machine library. **\[Deprecated\]**
-* [cl-online-learning](https://github.com/masatoi/cl-online-learning) - Online learning algorithms \(Perceptron, AROW, SCW, Logistic Regression\).
-* [cl-random-forest](https://github.com/masatoi/cl-random-forest) - Implementation of Random Forest in Common Lisp.
+1. [mgl](https://github.com/melisgl/mgl/) - Neural networks \(boltzmann machines, feed-forward and recurrent nets\), Gaussian Processes.
+2. [mgl-gpr](https://github.com/melisgl/mgl-gpr/) - Evolutionary algorithms. **\[Deprecated\]**
+3. [cl-libsvm](https://github.com/melisgl/cl-libsvm/) - Wrapper for the libsvm support vector machine library. **\[Deprecated\]**
+4. [cl-online-learning](https://github.com/masatoi/cl-online-learning) - Online learning algorithms \(Perceptron, AROW, SCW, Logistic Regression\).
+5. [cl-random-forest](https://github.com/masatoi/cl-random-forest) - Implementation of Random Forest in Common Lisp.
 
 ### Clojure
 
 **Natural Language Processing**
 
-* [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure \(opennlp\).
-* [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript.
+1. [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure \(opennlp\).
+2. [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript.
 
 **General-Purpose Machine Learning**
 
-* [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library. **\[Deprecated\]**
-* [Clojush](https://github.com/lspector/Clojush) - The Push programming language and the PushGP genetic programming system implemented in Clojure.
-* [Infer](https://github.com/aria42/infer) - Inference and machine learning in Clojure. **\[Deprecated\]**
-* [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends. **\[Deprecated\]**
-* [DL4CLJ](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
-* [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog \(v3\) \(Machine-Learning framework that specializes in neural-nets\). **\[Deprecated\]**
-* [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure. **\[Deprecated\]**
-* [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure. **\[Deprecated\]**
-* [clortex](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm. **\[Deprecated\]**
-* [comportex](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm. **\[Deprecated\]**
-* [cortex](https://github.com/originrose/cortex) - Neural networks, regression and feature learning in Clojure.
-* [lambda-ml](https://github.com/cloudkj/lambda-ml) - Simple, concise implementations of machine learning techniques and utilities in Clojure.
+1. [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library. **\[Deprecated\]**
+2. [Clojush](https://github.com/lspector/Clojush) - The Push programming language and the PushGP genetic programming system implemented in Clojure.
+3. [Infer](https://github.com/aria42/infer) - Inference and machine learning in Clojure. **\[Deprecated\]**
+4. [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends. **\[Deprecated\]**
+5. [DL4CLJ](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
+6. [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog \(v3\) \(Machine-Learning framework that specializes in neural-nets\). **\[Deprecated\]**
+7. [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure. **\[Deprecated\]**
+8. [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure. **\[Deprecated\]**
+9. [clortex](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm. **\[Deprecated\]**
+10. [comportex](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm. **\[Deprecated\]**
+11. [cortex](https://github.com/originrose/cortex) - Neural networks, regression and feature learning in Clojure.
+12. [lambda-ml](https://github.com/cloudkj/lambda-ml) - Simple, concise implementations of machine learning techniques and utilities in Clojure.
 
 **Data Analysis / Data Visualization**
 
-* [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
-* [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
-* [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3.
+1. [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
+2. [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
+3. [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3.
 
 ### Crystal
 
 **General-Purpose Machine Learning**
 
-* [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
-* [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN \(Fast Artificial Neural Network\) binding.
+1. [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+2. [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN \(Fast Artificial Neural Network\) binding.
 
 ### Elixir
 

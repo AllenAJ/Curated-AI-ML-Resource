@@ -10,5 +10,7 @@
 * [Podcasts](table-of-contents/podcasts.md)
 * [Papers](table-of-contents/papers.md)
 * [Cheatsheets](table-of-contents/cheatsheets.md)
+* [Journals](table-of-contents/journals.md)
 * [Organisation](table-of-contents/organisation.md)
+* [Newsletters](table-of-contents/newsletters.md)
 
