@@ -10,4 +10,8 @@
 8. [IntelAI](https://software.intel.com/en-us/ai)
 9. [AI²](http://allenai.org/)
 10. [Partnership on AI](https://www.partnershiponai.org/)
+11. [IEEE Computational Intelligence Society](http://cis.ieee.org/)
+12. [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
+13. [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
+14. [Google DeepMind Research](https://deepmind.com/research/)
 
