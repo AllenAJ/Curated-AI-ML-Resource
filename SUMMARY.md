@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [AI/ML Resources](README.md)
+
+## Table Of Contents
+
+* [Articles](table-of-contents/articles.md)
 
